@@ -8,7 +8,7 @@ Digital Design student and currently...
 
 learning: Python
 
-Getting better in: Typescript
+Getting better in: Typescript and React
 
 Have worked on projects with:
 
